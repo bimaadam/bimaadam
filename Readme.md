@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Bima Adam Nugraha
+# Hi there! 👋 I'm Bima Adam Nugraha - CO Founder Ignitron
 
 <div align="center">
   
