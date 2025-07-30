@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=#1e66f5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Creative+Mechanic+%F0%9F%94%A7;3D+Artist+%26+Visual+Storyteller+%F0%9F%8E%A8;Bringing+Ideas+to+Life+%F0%9F%9A%80)
+  ![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1e66f5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Creative+Mechanic+%F0%9F%94%A7;3D+Artist+%26+Visual+Storyteller+%F0%9F%8E%A8;Bringing+Ideas+to+Life+%F0%9F%9A%80)
   
   [![Website](https://img.shields.io/badge/🌐_Website-bimaadam.fun-FF4088?style=for-the-badge&logoColor=white)](https://bimaadam.fun/)
   [![GitHub](https://img.shields.io/badge/GitHub-@bimaadam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bimaadam)
