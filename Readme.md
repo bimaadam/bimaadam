@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Bima Adam Nugraha
+# Hi there! I'm Bima Adam Nugraha
 
 <div align="center">
 
@@ -8,13 +8,13 @@
 
 <div align="center">
   
-  ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🚀+CO-Founder+%40+Ignitron;🔧+Creative+Mechanic;⚡+Problem+Solver;🎯+Code+%26+Create)
+  ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CO-Founder+at+Ignitron;Creative+Mechanic;Problem+Solver;Code+%26+Create)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <table>
 <tr>
@@ -29,12 +29,12 @@
 const bima = {
   name: "Bima Adam Nugraha",
   age: 22,
-  location: "Indonesia 🇮🇩",
+  location: "Indonesia",
   role: "CO-Founder @ Ignitron",
   passion: ["Coding", "Mechanics", "Innovation"],
   workingOn: "Building scalable web applications",
   learning: "Advanced system architecture",
-  funFact: "I can fix your car and build your website! 🚗💻"
+  funFact: "I can fix your car and build your website!"
 };
 ```
 
@@ -44,30 +44,30 @@ const bima = {
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
-### 💻 **Languages**
+### **Languages**
 <img src="https://skillicons.dev/icons?i=cs,cpp,ts,js,dart,php,java&theme=dark" />
 
-### 🎨 **Frontend**
+### **Frontend**
 <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css&theme=dark" />
 
-### ⚙️ **Backend**
+### **Backend**
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,express,fastapi&theme=dark" />
 
-### 🗄️ **Database & Tools**
+### **Database & Tools**
 <img src="https://skillicons.dev/icons?i=prisma,mongodb,postgresql,redis,docker&theme=dark" />
 
-### 🔧 **DevOps & Others**
+### **DevOps & Others**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -84,7 +84,7 @@ const bima = {
 
 ---
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 
 <div align="center">
 
@@ -94,7 +94,7 @@ const bima = {
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -104,22 +104,22 @@ const bima = {
 
 ---
 
-## 💼 What I'm Working On
+## What I'm Working On
 
 <div align="center">
 
-| 🎯 **Focus Area** | 📋 **Description** | 🔥 **Status** |
+| **Focus Area** | **Description** | **Status** |
 |:---:|:---:|:---:|
-| 🚀 **Ignitron** | Building innovative solutions | `In Progress` |
-| 💻 **Full-Stack Projects** | Modern web applications | `Active` |
-| 🔧 **Open Source** | Contributing to community | `Contributing` |
-| 📚 **Learning** | System architecture & AI | `Exploring` |
+| **Ignitron** | Building innovative solutions | `In Progress` |
+| **Full-Stack Projects** | Modern web applications | `Active` |
+| **Open Source** | Contributing to community | `Contributing` |
+| **Learning** | System architecture & AI | `Exploring` |
 
 </div>
 
 ---
 
-## 🎨 Skills & Interests
+## Skills & Interests
 
 <div align="center">
 
@@ -149,15 +149,15 @@ mindmap
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Website-bimaadam.fun-8B5CF6?style=for-the-badge&logoColor=white)](https://bimaadam.fun/)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-bimaadam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bimaadam)
-[![Email](https://img.shields.io/badge/📧_Email-contact@bimaadamrin.my.id-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@bimaadamrin.my.id)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-bimaadam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bimaadam)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-bimaadam-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bimaadam)
+[![Website](https://img.shields.io/badge/Website-bimaadam.fun-8B5CF6?style=for-the-badge&logoColor=white)](https://bimaadam.fun/)
+[![GitHub](https://img.shields.io/badge/GitHub-bimaadam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bimaadam)
+[![Email](https://img.shields.io/badge/Email-contact@bimaadamrin.my.id-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@bimaadamrin.my.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bimaadam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bimaadam)
+[![Instagram](https://img.shields.io/badge/Instagram-bimaadam-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bimaadam)
 
 </div>
 
@@ -165,12 +165,12 @@ mindmap
 
 <div align="center">
 
-### 💭 *"Innovation happens at the intersection of curiosity and capability"*
+### *"Innovation happens at the intersection of curiosity and capability"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bimaadam&label=Profile%20Views&color=8B5CF6&style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn"/>
 
-**⭐ Thanks for visiting! Let's build something amazing together! ⭐**
+**Thanks for visiting! Let's build something amazing together!**
 
 </div>
