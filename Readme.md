@@ -55,7 +55,7 @@ const bima = {
 <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css&theme=dark" />
 
 ### **Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,express,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,express,fastapi,dotnet&theme=dark" />
 
 ### **Database & Tools**
 <img src="https://skillicons.dev/icons?i=prisma,mongodb,postgresql,redis,docker&theme=dark" />
