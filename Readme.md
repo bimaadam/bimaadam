@@ -61,7 +61,7 @@ const bima = {
 <img src="https://skillicons.dev/icons?i=prisma,mongodb,postgresql,redis,docker&theme=dark" />
 
 ### **DevOps & Others**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,notion,vxworks&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,notion&theme=dark" />
 
 </div>
 
