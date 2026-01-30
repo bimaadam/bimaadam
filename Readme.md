@@ -28,7 +28,7 @@
 ```javascript
 const bima = {
   name: "Bima Adam Nugraha",
-  age: 22,
+  age: 23,
   location: "Indonesia",
   role: "CO-Founder @ Ignitron",
   passion: ["Coding", "Mechanics", "Innovation"],
