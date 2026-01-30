@@ -52,7 +52,7 @@ const bima = {
 <img src="https://skillicons.dev/icons?i=cs,cpp,ts,js,dart,php,java&theme=dark" />
 
 ### **Frontend**
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,css,scss&theme=dark" />
 
 ### **Backend**
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,express,fastapi,dotnet&theme=dark" />
