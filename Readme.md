@@ -121,14 +121,6 @@ const bima = {
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bimaadam&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
 ## Currently Listening
 
 <div align="center">
@@ -158,30 +150,52 @@ const bima = {
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Bima))
-    Frontend
-      React & Next.js
-      Flutter
-      Responsive Design
-      UI/UX Implementation
-    Backend
-      Node.js Ecosystem
-      API Design
-      Database Management
-      Microservices
-    DevOps
-      Docker
-      CI/CD Pipelines
-      Cloud Deployment
-      System Architecture
-    Other Skills
-      Problem Solving
-      Team Collaboration
-      Project Management
-      Creative Mechanics
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Frontend Development
+- React & Next.js
+- Flutter Mobile Development
+- Responsive Web Design
+- UI/UX Implementation
+- Modern CSS Frameworks
+
+</td>
+<td width="50%" valign="top">
+
+### Backend Development
+- Node.js Ecosystem
+- RESTful API Design
+- Database Management
+- Microservices Architecture
+- Server Optimization
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### DevOps & Tools
+- Docker Containerization
+- CI/CD Pipelines
+- Cloud Deployment
+- Version Control (Git)
+- System Architecture
+
+</td>
+<td width="50%" valign="top">
+
+### Professional Skills
+- Problem Solving
+- Team Collaboration
+- Project Management
+- Technical Documentation
+- Creative Mechanics
+
+</td>
+</tr>
+</table>
 
 </div>
 
