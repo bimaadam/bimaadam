@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=BIMA%20ADAM%20NUGRAHA&section=header&reversal=true&textBg=false&fontColor=00000&animation=fadeIn&fontSize=30&stroke=FFFFF" />
+<img src="[https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=BIMA%20ADAM%20NUGRAHA&section=header&reversal=true&textBg=false&fontColor=00000&animation=fadeIn&fontSize=30&stroke=FFFFF](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=BIMA%20ADAM%20NUGRAHA&section=header&reversal=true&textBg=false&fontColor=ffff&animation=fadeIn&fontSize=30&stroke=000000&strokeWidth=1)" />
 <!-- Animated Typing Text -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Full+Stack+Developer;Building+Scalable+Solutions;Creative+Problem+Solver;Code+%2B+Mechanics+Enthusiast" alt="Typing SVG" />
 
