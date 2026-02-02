@@ -10,9 +10,6 @@
 
 </div>
 
-# Listen 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31w3agqrkzq2evin7ob2xsx7r2ia&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
-
 ---
 
 ## About Me
@@ -42,6 +39,9 @@ const bima = {
 </td>
 </tr>
 </table>
+
+# Listen 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31w3agqrkzq2evin7ob2xsx7r2ia&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
