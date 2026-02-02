@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bima%20Adam%20Nugraha&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CO-Founder%20at%20Ignitron&descSize=18&descAlignY=55" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?text=Bima%20Adam%20Nugraha&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CO-Founder%20at%20Ignitron&descSize=18&descAlignY=55" alt="header"/>
 
 <!-- Animated Typing Text -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Full+Stack+Developer;Building+Scalable+Solutions;Creative+Problem+Solver;Code+%2B+Mechanics+Enthusiast" alt="Typing SVG" />
