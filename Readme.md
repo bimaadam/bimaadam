@@ -1,30 +1,46 @@
-<div align="center">
+# Hi, I'm Bima Adam 👋
 
-# Bima Adam
-
-Full-Stack Engineer  
-Co-Founder @ Ignitron
-
-bimaadam.fun · linkedin.com/in/bimaadam
-
-</div>
+A passionate beginner developer who loves building things from scratch.
 
 ---
 
-## Tech
+### 🧰 Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square)
-![React](https://img.shields.io/badge/React-000000?style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square)
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+**Frameworks & Libraries**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+
+**Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat-square&logo=dbeaver&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bimaadam&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimaadam&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000" height="150"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=bimadam&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimadam&layout=compact&theme=default&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Still learning, still growing 🌱</i>
 </p>
