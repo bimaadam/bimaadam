@@ -46,7 +46,7 @@ A beginner developer who loves building things from scratch.
 
 <p align="center">
   <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bimadam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bimadam&layout=compact&theme=tokyonight&hide_border=true&hide=html,php,css,python" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bimadam&layout=compact&theme=tokyonight&hide_border=true&hide=" />
 </p>
 
 ---
