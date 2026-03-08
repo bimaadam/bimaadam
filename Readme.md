@@ -48,8 +48,8 @@ I love building things from scratch and currently open for **remote/WFH** opport
 ### GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=bimadam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimadam&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&hide=html,css" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=bimaadam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimaadam&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&hide=html,css" />
 </p>
 
 ---
