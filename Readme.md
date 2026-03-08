@@ -1,71 +1,76 @@
 <div align="center">
 
-<h1>Bima Adam</h1>
+```
+╔══════════════════════════════════════════╗
+║           BIMA ADAM                      ║
+║           Fullstack Developer            ║
+║           Founder @ IgnitronDev          ║
+╚══════════════════════════════════════════╝
+```
 
-<p>Fullstack Developer &nbsp;·&nbsp; Founder @ IgnitronDev</p>
+[![Status](https://img.shields.io/badge/STATUS-OPEN_TO_REMOTE-00d26a?style=for-the-badge&labelColor=0d1117)](/)
+[![Focus](https://img.shields.io/badge/FOCUS-BACKEND_%26_INFRA-58a6ff?style=for-the-badge&labelColor=0d1117)](/)
+
+</div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Backend%20Architecture-161b22?style=flat-square&labelColor=161b22&color=21262d&logoColor=8b949e"/>
-<img src="https://img.shields.io/badge/System%20Design-161b22?style=flat-square&labelColor=161b22&color=21262d&logoColor=8b949e"/>
-<img src="https://img.shields.io/badge/Open%20to%20Remote-238636?style=flat-square&labelColor=1f6feb&color=1f6feb"/>
+```yaml
+whoami:
+  name      : Bima Adam
+  role      : Fullstack Developer
+  company   : IgnitronDev (Founder)
+  interests :
+    - Backend Architecture
+    - System Design
+    - Scalable Infrastructure
+  available : Remote / WFH
+```
 
-</div>
-
----
-
-### About
-
-Fullstack developer with a focus on backend architecture, system design, and scalable infrastructure.  
-Founder of **IgnitronDev** — building tools, applications, and experimental systems.
-
----
-
-### Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,php,ts,js,go,rust,java&theme=dark"/>
-</p>
-
-**Frameworks**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,spring,nestjs,dotnet,react&theme=dark"/>
-</p>
-
-**UI & Styling**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,materialui&theme=dark"/>
-</p>
-
-**DevOps & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,linux,postgres,postman&theme=dark"/>
-</p>
-
-**Other**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark"/>
-  &nbsp;<img src="https://img.shields.io/badge/Android_ROM_Dev-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-</p>
+<br/>
 
 ---
 
-### Stats
+## `stack.languages`
+
+| Language | | Language | | Language |
+|---|---|---|---|---|
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) C# | &nbsp; | ![PHP](https://img.shields.io/badge/PHP-4F5B93?style=flat-square&logo=php&logoColor=white) PHP | &nbsp; | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) TypeScript |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black) JavaScript | &nbsp; | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) Go | &nbsp; | ![Rust](https://img.shields.io/badge/Rust-f74c00?style=flat-square&logo=rust&logoColor=white) Rust |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) Java | &nbsp; | | | |
+
+## `stack.frameworks`
+
+| Backend | | Frontend |
+|---|---|---|
+| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) Laravel | &nbsp; | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) React |
+| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) Spring Boot | &nbsp; | ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) Tailwind |
+| ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) NestJS | &nbsp; | ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white) Ant Design |
+| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) .NET | &nbsp; | ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white) MUI |
+| ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white) Gin | &nbsp; | |
+
+## `stack.devops`
+
+| Tool | Tool | Tool |
+|---|---|---|
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) Docker | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) Jenkins | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) GitHub Actions |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) Linux | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) PostgreSQL | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) Postman |
+| ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat-square&logo=dbeaver&logoColor=white) DBeaver | ![Android ROM](https://img.shields.io/badge/Android_ROM-3DDC84?style=flat-square&logo=android&logoColor=white) Android ROM | |
+
+---
+
+## `github.trophies`
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bimaadam&theme=darkhub&no-frame=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=bimaadam&theme=darkhub&no-frame=true&margin-w=8&column=7"/>
 </div>
 
 ---
 
 <div align="center">
-<sub>Still learning. Still building.</sub>
+
+```
+> still learning. still building. _
+```
+
 </div>
