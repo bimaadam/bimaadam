@@ -59,10 +59,15 @@ whoami:
 
 ---
 
-## `github.trophies`
+## `github.stats`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bimaadam&theme=darkhub&no-frame=true&margin-w=8&column=7"/>
+
+![Followers](https://img.shields.io/github/followers/bimaadam?style=for-the-badge&logo=github&labelColor=0d1117&color=21262d&label=Followers)
+![Stars](https://img.shields.io/github/stars/bimaadam?style=for-the-badge&logo=github&labelColor=0d1117&color=21262d&label=Stars)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bimaadam&query=$.public_repos&style=for-the-badge&logo=github&labelColor=0d1117&color=21262d&label=Repos)
+![Since](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bimaadam&query=$.created_at&style=for-the-badge&logo=github&labelColor=0d1117&color=21262d&label=Member+Since)
+
 </div>
 
 ---
