@@ -1,6 +1,7 @@
 # Hi, I'm Bima Adam
 
-A beginner developer who loves building things from scratch.
+Fullstack developer & Founder of [IgnitronDev](https://github.com/IgnitronDev).  
+I love building things from scratch and currently open for **remote/WFH** opportunities.
 
 ---
 
@@ -14,10 +15,12 @@ A beginner developer who loves building things from scratch.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
 **Frameworks & Libraries**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -31,7 +34,7 @@ A beginner developer who loves building things from scratch.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat-square&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat-square&logo=dbeaver&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -45,12 +48,12 @@ A beginner developer who loves building things from scratch.
 ### GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bimadam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bimadam&layout=compact&theme=tokyonight&langs_count=20&count_private=true&hide=html,css,php" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=bimadam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimadam&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&hide=html,css" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Still learning, still growing.</i>
+  <i>Still learning, still growing. Let's build something awesome together! 🚀</i>
 </p>
