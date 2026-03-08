@@ -25,6 +25,8 @@ Founder of **IgnitronDev** — building tools, applications, and experimental sy
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=bimaadam&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bimaadam&theme=github_dark" height="160"/>
 
 <br/><br/>
 
