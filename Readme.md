@@ -20,6 +20,14 @@
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
+```
+<div align="center">
+  
+  ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbimaadam&count_bg=%23cba6f7&title_bg=%231e1e2e&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true)
+  
+</div>
+```
+
 
 <div align="center">
 
