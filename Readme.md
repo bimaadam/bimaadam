@@ -14,17 +14,16 @@
 
 <!-- Terminal Box dengan HTML biar bisa styling -->
 <pre style="background:#1e1e2e;color:#cdd6f4;padding:20px;border-radius:10px;border:1px solid #cba6f7;display:inline-block;text-align:left;">
-┌─────────────────────────────────────────────────────────┐
-│  <span style="color:#cba6f7;">$</span> <span style="color:#89b4fa;">whoami</span>                                              │
-│  <span style="color:#a6e3a1;">> Bima Adam</span>                                           │
-│                                                         │
-│  <span style="color:#cba6f7;">$</span> <span style="color:#89b4fa;">cat</span> role.txt                                        │
-│  <span style="color:#a6e3a1;">> Fullstack Developer · Founder @ IgnitronDev</span>         │
-│                                                         │
-│  <span style="color:#cba6f7;">$</span> <span style="color:#89b4fa;">echo</span> $STATUS                                        │
-│  <span style="color:#f38ba8;">> Open to Remote / WFH</span> 🌏                             │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+
+  <span style="color:#cba6f7;">$</span> <span style="color:#89b4fa;">whoami</span>                                              
+  <span style="color:#a6e3a1;">> Bima Adam</span>                                           
+                                                        
+  <span style="color:#cba6f7;">$</span> <span style="color:#89b4fa;">cat</span> role.txt                                        
+  <span style="color:#a6e3a1;">> Fullstack Developer · Founder @ IgnitronDev</span>         
+                                                         
+  <span style="color:#cba6f7;">$</span> <span style="color:#89b4fa;">echo</span> $STATUS                                        
+  <span style="color:#f38ba8;">> Open to Remote / WFH</span> 🌏                             
+
 </pre>
 
 </div>
@@ -33,11 +32,7 @@
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 
-<div align="center">
-  
-  ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbimaadam&count_bg=%23cba6f7&title_bg=%231e1e2e&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true)
-  
-</div>
+
 
 
 
