@@ -1,19 +1,31 @@
 <div align="center">
 
-```
+![](https://komarev.com/ghpvc/?username=bimaadam&color=cba6f7&style=flat-square&label=PROFILE+VIEWS)
+
+<br><br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Founder+%40+IgnitronDev;Building+scalable+systems;Open+to+collaborate!)](https://git.io/typing-svg)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Terminal Box dengan HTML biar bisa styling -->
+<pre style="background:#1e1e2e;color:#cdd6f4;padding:20px;border-radius:10px;border:1px solid #cba6f7;display:inline-block;text-align:left;">
 ┌─────────────────────────────────────────────────────────┐
+│  <span style="color:#cba6f7;">$</span> <span style="color:#89b4fa;">whoami</span>                                              │
+│  <span style="color:#a6e3a1;">> Bima Adam</span>                                           │
 │                                                         │
-│   $ whoami                                              │
-│   > Bima Adam                                           │
+│  <span style="color:#cba6f7;">$</span> <span style="color:#89b4fa;">cat</span> role.txt                                        │
+│  <span style="color:#a6e3a1;">> Fullstack Developer · Founder @ IgnitronDev</span>         │
 │                                                         │
-│   $ cat role.txt                                        │
-│   > Fullstack Developer · Founder @ IgnitronDev         │
-│                                                         │
-│   $ echo $STATUS                                        │
-│   > Open to Remote / WFH                                │
+│  <span style="color:#cba6f7;">$</span> <span style="color:#89b4fa;">echo</span> $STATUS                                        │
+│  <span style="color:#f38ba8;">> Open to Remote / WFH</span> 🌏                             │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
-```
+</pre>
 
 </div>
 
