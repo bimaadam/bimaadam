@@ -19,7 +19,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=bimaadam&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=bimaadam&theme=%7B%22backgroundColor%22%3A%22%231e1e2e%22%2C%22textColor%22%3A%22%23bac2de%22%2C%22accentColor%22%3A%22%23cba6f7%22%2C%22borderColor%22%3A%22%23cba6f7%22%2C%22waterColor%22%3A%22%2389b4fa%22%2C%22streakColor%22%3A%22%23f38ba8%22%7D)
 
 </div>
 
