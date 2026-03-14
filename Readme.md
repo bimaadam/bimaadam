@@ -70,7 +70,7 @@ const bima = {
 
 **`~/devops`**
 
-<img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,linux,postgres,postman,k3s&theme=dark&perline=7"/>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,linux,postgres,postman,kubernetes&theme=dark&perline=7"/>
 
 **`~/other`**
 
