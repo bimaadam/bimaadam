@@ -1,41 +1,68 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=bimaadam&color=cba6f7&style=flat-square&label=PROFILE+VIEWS)
+<!-- ════════════ HERO ════════════ -->
+<img src="https://komarev.com/ghpvc/?username=bimaadam&color=cba6f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Founder+%40+IgnitronDev;Building+scalable+systems;Open+to+collaborate!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Cloud+Engineer;AWS+|+GCP+|+Azure;Infrastructure+as+Code;Fullstack+Background)](https://git.io/typing-svg)
+
+<br>
+
+<!-- Status pills -->
+<a href="#"><img src="https://img.shields.io/badge/STATUS-Open_to_Work-cba6f7?style=for-the-badge&logo=protonmail&logoColor=1e1e2e"/></a>
+<a href="#"><img src="https://img.shields.io/badge/MODE-Remote_🌏-89b4fa?style=for-the-badge&logo=googlemaps&logoColor=1e1e2e"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Cloud_Engineer-in_transition-a6e3a1?style=for-the-badge&logo=sparkar&logoColor=1e1e2e"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CURRENTLY-Fullstack_Engineer-f9e2af?style=for-the-badge&logo=codesandbox&logoColor=1e1e2e"/></a>
 
 </div>
 
 <br>
 
+<!-- ════════════ TERMINAL ════════════ -->
 <div align="center">
 
-<!-- Terminal Box dengan HTML biar bisa styling -->
-<pre style="background:#1e1e2e;color:#cdd6f4;padding:20px;border-radius:10px;border:1px solid #cba6f7;display:inline-block;text-align:left;">
+<div style="max-width:620px;background:#181825;border:1px solid #313244;border-radius:12px;overflow:hidden;text-align:left;box-shadow:0 8px 24px rgba(0,0,0,0.4);">
 
-  <span style="color:#cba6f7;">$</span> <span style="color:#89b4fa;">whoami</span>                                              
-  <span style="color:#a6e3a1;">> Bima Adam</span>                                           
-                                                        
-  <span style="color:#cba6f7;">$</span> <span style="color:#89b4fa;">cat</span> role.txt                                        
-  <span style="color:#a6e3a1;">> Fullstack Developer · Founder @ IgnitronDev</span>         
-                                                         
-  <span style="color:#cba6f7;">$</span> <span style="color:#89b4fa;">echo</span> $STATUS                                        
-  <span style="color:#f38ba8;">> Open to Remote / WFH</span> 🌏                             
+  <!-- Title bar -->
+  <div style="background:#11111b;padding:10px 16px;display:flex;align-items:center;gap:8px;">
+    <span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#f38ba8;"></span>
+    <span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#f9e2af;"></span>
+    <span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#a6e3a1;"></span>
+    <span style="margin-left:auto;color:#6c7086;font-family:monospace;font-size:12px;">bima@cloud-engineer: ~</span>
+  </div>
 
-</pre>
+  <!-- Terminal body -->
+  <pre style="margin:0;padding:20px;background:#1e1e2e;color:#cdd6f4;font-family:JetBrains Mono,monospace;font-size:14px;line-height:1.6;">
+<span style="color:#cba6f7;">$</span> <span style="color:#89b4fa;">whoami</span>
+<span style="color:#a6e3a1;">> Bima Adam</span>
+
+<span style="color:#cba6f7;">$</span> <span style="color:#89b4fa;">cat</span> target.txt
+<span style="color:#a6e3a1;">> Cloud Engineer (in transition)</span>
+
+<span style="color:#cba6f7;">$</span> <span style="color:#89b4fa;">cat</span> currently.txt
+<span style="color:#f9e2af;">> Fullstack Engineer</span>
+
+<span style="color:#cba6f7;">$</span> <span style="color:#89b4fa;">echo</span> $STATUS
+<span style="color:#f38ba8;">> Open to Remote / WFH</span> 🌏
+  </pre>
 
 </div>
 
+</div>
 
-![](./profile-3d-contrib/profile-night-view.svg)
+<br>
 
+<!-- ════════════ 3D CONTRIBUTIONS ════════════ -->
+<div align="center">
 
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contributions"/>
 
+</div>
 
+<br>
 
-
+<!-- ════════════ STREAK ════════════ -->
 <div align="center">
 
 ![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=bimaadam&theme=%7B%22backgroundColor%22%3A%22%231e1e2e%22%2C%22textColor%22%3A%22%23bac2de%22%2C%22accentColor%22%3A%22%23cba6f7%22%2C%22borderColor%22%3A%22%23cba6f7%22%2C%22waterColor%22%3A%22%2389b4fa%22%2C%22streakColor%22%3A%22%23f38ba8%22%7D)
@@ -44,76 +71,83 @@
 
 ---
 
-```ts
-const bima = {
-  focus   : ["Backend Architecture", "System Design", "Scalable Infrastructure"],
-  company : "IgnitronDev",
-  building: "tools, applications, and experimental systems",
-};
-```
-
----
-
-**`~/languages`**
-
-<img src="https://skillicons.dev/icons?i=cs,php,ts,js,go,rust,java&theme=dark&perline=7"/>
-
-**`~/frameworks`**
-
-<img src="https://skillicons.dev/icons?i=laravel,spring,nestjs,dotnet,react&theme=dark&perline=7"/>
-
-**`~/ui`**
-
-<img src="https://skillicons.dev/icons?i=tailwind,materialui&theme=dark&perline=7"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white"/>
-
-
-`~/devops`
-
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1628?style=for-the-badge&logo=helm&logoColor=white)
-
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo%20CD-ef7b4d?style=for-the-badge&logo=argo&logoColor=white)
-
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Vault](https://img.shields.io/badge/Vault-FF1E1E?style=for-the-badge&logo=hashicorpvault&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**`~/other`**
-
-<img src="https://skillicons.dev/icons?i=androidstudio&theme=dark&perline=7"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Android_ROM_Dev-3DDC84?style=flat-square&logo=android&logoColor=black"/>
-
----
-
-**`~/github`**
-
+<!-- ════════════ ABOUT (CODE) ════════════ -->
 <div align="center">
 
-[![followers](https://img.shields.io/github/followers/bimaadam?style=flat-square&logo=github&labelColor=0d1117&color=0d1117&label=followers)](https://github.com/bimaadam?tab=followers)
-&nbsp;
-[![stars](https://img.shields.io/github/stars/bimaadam?style=flat-square&logo=github&labelColor=0d1117&color=0d1117&label=stars)](https://github.com/bimaadam)
-&nbsp;
-[![repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bimaadam&query=$.public_repos&style=flat-square&logo=github&labelColor=0d1117&color=0d1117&label=repos)](https://github.com/bimaadam?tab=repositories)
+```ts
+const bima = {
+  target     : "Cloud Engineer (in transition)",
+  focus      : ["AWS", "GCP", "Azure", "Infrastructure as Code"],
+  currently  : "Fullstack Engineer",
+  background : "3+ years Fullstack (TypeScript, NestJS, Next.js, React)",
+};
+```
 
 </div>
 
 ---
 
+<!-- ════════════ TECH STACK ════════════ -->
+<div align="center">
+
+**Cloud**
+<br>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark"/>
+
+**DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,linux,postgres,grafana&theme=dark"/>
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=cs,php,ts,js,go,rust,java&theme=dark"/>
+
+**Frameworks**
+<br>
+<img src="https://skillicons.dev/icons?i=laravel,spring,nestjs,dotnet,react,tailwind&theme=dark"/>
+
+**Mobile**
+<br>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=dark"/>
+
+</div>
+
+---
+
+<!-- ════════════ GITHUB STATS ════════════ -->
+<h3 align="left">
+  <img src="https://img.shields.io/badge/~/github-cba6f7?style=flat-square&labelColor=11111b&color=cba6f7"/>
+</h3>
+
+<div align="center">
+
+[![followers](https://img.shields.io/github/followers/bimaadam?style=for-the-badge&logo=github&labelColor=11111b&color=cba6f7&label=followers)](https://github.com/bimaadam?tab=followers)
+[![stars](https://img.shields.io/github/stars/bimaadam?style=for-the-badge&logo=github&labelColor=11111b&color=89b4fa&label=stars)](https://github.com/bimaadam)
+[![repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bimaadam&query=$.public_repos&style=for-the-badge&logo=github&labelColor=11111b&color=a6e3a1&label=repos)](https://github.com/bimaadam?tab=repositories)
+
+</div>
+
+---
+
+<!-- ════════════ TROPHY ════════════ -->
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=bimaadam&theme=catppuccin_mocha&no-frame=true&no-bg=true&margin-w=8&row=1)
+
+</div>
+
+---
+
+<!-- ════════════ FOOTER ════════════ -->
 <div align="center">
 
 ```bash
 $ git log --oneline --all | tail -1
 > "still learning. still building."
 ```
+
+<br>
+
+<img src="https://img.shields.io/badge/Made_with-☕_&_midnight_oil-1e1e2e?style=flat-square&labelColor=11111b&color=cba6f7"/>
 
 </div>
