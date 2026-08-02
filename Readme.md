@@ -1,11 +1,14 @@
+
+
 <div align="center">
 
-<!-- ════════════ HERO ════════════ -->
-<img src="https://komarev.com/ghpvc/?username=bimaadam&color=cba6f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<br><br>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Cloud+Engineer;AWS+|+GCP+|+Azure;Infrastructure+as+Code;Fullstack+Background)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N0ajRqajRobmFxY3BxeXFicWVxdTBuNm05MzV6bXp3YnU3enE3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr7oA0rSjnWuiLJOY5/giphy.gif" width=""/> </div>
+
+<div align="left">
 
 <br>
 
@@ -16,11 +19,12 @@
 <a href="#"><img src="https://img.shields.io/badge/CURRENTLY-Fullstack_Engineer-f9e2af?style=for-the-badge&logo=codesandbox&logoColor=1e1e2e"/></a>
 
 </div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=bimaadam&color=cba6f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/></div>
 
 <br>
 
 <!-- ════════════ TERMINAL ════════════ -->
-<div align="center">
+<div align="left">
 
 <div style="max-width:620px;background:#181825;border:1px solid #313244;border-radius:12px;overflow:hidden;text-align:left;box-shadow:0 8px 24px rgba(0,0,0,0.4);">
 
@@ -54,7 +58,7 @@
 <br>
 
 <!-- ════════════ 3D CONTRIBUTIONS ════════════ -->
-<div align="center">
+<div align="left">
 
 <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contributions"/>
 
@@ -72,7 +76,7 @@
 ---
 
 <!-- ════════════ ABOUT (CODE) ════════════ -->
-<div align="center">
+<div align="left">
 
 ```ts
 const bima = {
@@ -88,7 +92,7 @@ const bima = {
 ---
 
 <!-- ════════════ TECH STACK ════════════ -->
-<div align="center">
+<div align="left">
 
 **Cloud**
 <br>
@@ -119,7 +123,7 @@ const bima = {
   <img src="https://img.shields.io/badge/~/github-cba6f7?style=flat-square&labelColor=11111b&color=cba6f7"/>
 </h3>
 
-<div align="center">
+<div align="left">
 
 [![followers](https://img.shields.io/github/followers/bimaadam?style=for-the-badge&logo=github&labelColor=11111b&color=cba6f7&label=followers)](https://github.com/bimaadam?tab=followers)
 [![stars](https://img.shields.io/github/stars/bimaadam?style=for-the-badge&logo=github&labelColor=11111b&color=89b4fa&label=stars)](https://github.com/bimaadam)
@@ -130,16 +134,18 @@ const bima = {
 ---
 
 <!-- ════════════ TROPHY ════════════ -->
-<div align="center">
+<div align="left">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=bimaadam&theme=catppuccin_mocha&no-frame=true&no-bg=true&margin-w=8&row=1)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=bimaadam&theme=catppuccin_mocha&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophy"/>
+</a>
 
 </div>
 
 ---
 
 <!-- ════════════ FOOTER ════════════ -->
-<div align="center">
+<div align="left">
 
 ```bash
 $ git log --oneline --all | tail -1
