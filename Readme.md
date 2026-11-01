@@ -4,8 +4,6 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N0ajRqajRobmFxY3BxeXFicWVxdTBuNm05MzV6bXp3YnU3enE3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr7oA0rSjnWuiLJOY5/giphy.gif" width="160px"/>
 
-<br/>
-
 ![status](https://img.shields.io/badge/STATUS-Open_to_Work-cba6f7?style=flat-square&labelColor=11111b)
 ![mode](https://img.shields.io/badge/MODE-Remote_🌏-89b4fa?style=flat-square&labelColor=11111b)
 ![cloud](https://img.shields.io/badge/Cloud_Engineer-in_transition-a6e3a1?style=flat-square&labelColor=11111b)
@@ -14,20 +12,23 @@
 
 </div>
 
-<br/>
-
 ```console
 bima@cloud-engineer:~$ whoami
 > Bima Adam
 
-bima@cloud-engineer:~$ cat target.txt
-> Cloud Engineer (in transition)
-
-bima@cloud-engineer:~$ cat currently.txt
-> Fullstack Engineer
+bima@cloud-engineer:~$ cat bima.ts
+const bima = {
+  target     : "Cloud Engineer (in transition)",
+  focus      : ["AWS", "GCP", "Azure", "Infrastructure as Code"],
+  currently  : "Fullstack Engineer",
+  background : "3+ years Fullstack (TypeScript, NestJS, Next.js, React)",
+};
 
 bima@cloud-engineer:~$ echo $STATUS
 > Open to Remote / WFH 🌏
+
+bima@cloud-engineer:~$ git log --oneline --all | tail -1
+> "still learning. still building."
 ```
 
 <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contributions"/>
@@ -38,33 +39,15 @@ bima@cloud-engineer:~$ echo $STATUS
 
 </div>
 
-### ~/about
-
-```ts
-const bima = {
-  target     : "Cloud Engineer (in transition)",
-  focus      : ["AWS", "GCP", "Azure", "Infrastructure as Code"],
-  currently  : "Fullstack Engineer",
-  background : "3+ years Fullstack (TypeScript, NestJS, Next.js, React)",
-};
-```
-
 ### ~/stack
 
-<sub>CLOUD</sub><br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" height="36"/>
-
-<sub>DEVOPS</sub><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,linux,postgres,grafana&theme=dark" height="36"/>
-
-<sub>LANGUAGES</sub><br/>
-<img src="https://skillicons.dev/icons?i=cs,php,ts,js,go,rust,java&theme=dark" height="36"/>
-
-<sub>FRAMEWORKS</sub><br/>
-<img src="https://skillicons.dev/icons?i=laravel,spring,nestjs,dotnet,react,tailwind&theme=dark" height="36"/>
-
-<sub>MOBILE</sub><br/>
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=dark" height="36"/>
+<table>
+  <tr><td><sub>CLOUD</sub></td><td><img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" height="32"/></td></tr>
+  <tr><td><sub>DEVOPS</sub></td><td><img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,linux,postgres,grafana&theme=dark" height="32"/></td></tr>
+  <tr><td><sub>LANGUAGES</sub></td><td><img src="https://skillicons.dev/icons?i=cs,php,ts,js,go,rust,java&theme=dark" height="32"/></td></tr>
+  <tr><td><sub>FRAMEWORKS</sub></td><td><img src="https://skillicons.dev/icons?i=laravel,spring,nestjs,dotnet,react,tailwind&theme=dark" height="32"/></td></tr>
+  <tr><td><sub>MOBILE</sub></td><td><img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=dark" height="32"/></td></tr>
+</table>
 
 ### ~/github
 
@@ -76,11 +59,6 @@ const bima = {
   <img src="https://bimaadam-trophy.vercel.app/?username=bimaadam&theme=catppuccin_mocha&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophy"/>
 </a>
 
-<br/><br/>
-
-```bash
-$ git log --oneline --all | tail -1
-> "still learning. still building."
-```
+<br/>
 
 <img src="https://img.shields.io/badge/Made_with-☕_&_midnight_oil-1e1e2e?style=flat-square&labelColor=11111b&color=cba6f7"/>
