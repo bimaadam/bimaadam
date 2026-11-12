@@ -55,10 +55,6 @@ bima@cloud-engineer:~$ git log --oneline --all | tail -1
 [![stars](https://img.shields.io/github/stars/bimaadam?style=flat-square&logo=github&labelColor=11111b&color=89b4fa&label=stars)](https://github.com/bimaadam)
 [![repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bimaadam&query=$.public_repos&style=flat-square&logo=github&labelColor=11111b&color=a6e3a1&label=repos)](https://github.com/bimaadam?tab=repositories)
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://bimaadam-trophy.vercel.app/?username=bimaadam&theme=catppuccin_mocha&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophy"/>
-</a>
-
 <br/>
 
 <img src="https://img.shields.io/badge/Made_with-☕_&_midnight_oil-1e1e2e?style=flat-square&labelColor=11111b&color=cba6f7"/>
