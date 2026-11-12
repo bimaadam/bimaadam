@@ -41,7 +41,7 @@ bima@cloud-engineer:~$ git log --oneline --all | tail -1
 
 ### ~/stack
 
-<table>
+<table align="center">
   <tr><td><sub>CLOUD</sub></td><td><img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" height="32"/></td></tr>
   <tr><td><sub>DEVOPS</sub></td><td><img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,linux,postgres,grafana&theme=dark" height="32"/></td></tr>
   <tr><td><sub>LANGUAGES</sub></td><td><img src="https://skillicons.dev/icons?i=cs,php,ts,js,go,rust,java&theme=dark" height="32"/></td></tr>
